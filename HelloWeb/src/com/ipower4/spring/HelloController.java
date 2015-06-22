@@ -5,6 +5,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.ui.ModelMap;
 
+/* This is a comment */
 @Controller
 @RequestMapping("/hello")
 public class HelloController {
